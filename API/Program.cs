@@ -1,8 +1,13 @@
 
 using API.Data;
+using API.Integracao;
+using API.Integracao.Interfaces;
+using API.Integracao.Refit;
+using API.Integracao.Response;
 using API.Repositorios;
 using API.Repositorios.Interfaces;
 using Microsoft.EntityFrameworkCore;
+using Refit;
 
 namespace API
 {
@@ -25,6 +30,9 @@ namespace API
 
             builder.Services.AddScoped<IUsuarioRepositorio, UsuarioRepositorio>();
             builder.Services.AddScoped<ITarefaRepositorio, TarefaRepositorio>();
+            builder.Services.AddScoped<IViaCepIntegracao, ViaCepIntegracao>();
+            builder.Services.AddRefitClient<IViaCepIntegracaoRefit>()
+            .ConfigureHttpClient(c => c.BaseAddress = new Uri("https://viacep.com.br/ws/"));
 
             var app = builder.Build();
 
