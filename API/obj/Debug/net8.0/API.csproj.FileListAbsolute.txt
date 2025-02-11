@@ -166,3 +166,4 @@ C:\Users\b246131\Documents\API\API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Syst
 C:\Users\b246131\Documents\API\API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\b246131\Documents\API\API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 C:\Users\b246131\Documents\API\API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\b246131\Documents\API\API\obj\Debug\net8.0\API.sourcelink.json
