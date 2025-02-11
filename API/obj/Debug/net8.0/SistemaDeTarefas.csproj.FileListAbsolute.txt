@@ -1,0 +1,7 @@
+C:\Users\b246131\Documents\API\API\obj\Debug\net8.0\SistemaDeTarefas.csproj.AssemblyReference.cache
+C:\Users\b246131\Documents\API\API\obj\Debug\net8.0\SistemaDeTarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b246131\Documents\API\API\obj\Debug\net8.0\SistemaDeTarefas.AssemblyInfoInputs.cache
+C:\Users\b246131\Documents\API\API\obj\Debug\net8.0\SistemaDeTarefas.AssemblyInfo.cs
+C:\Users\b246131\Documents\API\API\obj\Debug\net8.0\SistemaDeTarefas.csproj.CoreCompileInputs.cache
+C:\Users\b246131\Documents\API\API\obj\Debug\net8.0\SistemaDeTarefas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\b246131\Documents\API\API\obj\Debug\net8.0\SistemaDeTarefas.MvcApplicationPartsAssemblyInfo.cache
