@@ -26,6 +26,22 @@
     ]
   },
   {
+    "ContainingType": "API.Controllers.ContaController",
+    "Method": "Login",
+    "RelativePath": "api/Conta",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "login",
+        "Type": "API.Models.LoginModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "API.Controllers.TarefaController",
     "Method": "BuscarTodasTarefas",
     "RelativePath": "api/Tarefa",

@@ -172,3 +172,4 @@ C:\Users\b246131\Documents\API\API\bin\Debug\net8.0\Microsoft.Extensions.Diagnos
 C:\Users\b246131\Documents\API\API\bin\Debug\net8.0\Microsoft.Extensions.Http.dll
 C:\Users\b246131\Documents\API\API\bin\Debug\net8.0\Refit.dll
 C:\Users\b246131\Documents\API\API\bin\Debug\net8.0\Refit.HttpClientFactory.dll
+C:\Users\b246131\Documents\API\API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

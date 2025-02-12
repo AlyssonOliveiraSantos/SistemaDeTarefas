@@ -7,20 +7,12 @@
       "RelativeMoniker": "D:0:0:{ED7B85F2-69A5-4A35-986A-2AFA49A62CCB}|API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED7B85F2-69A5-4A35-986A-2AFA49A62CCB}|API.csproj|c:\\users\\b246131\\documents\\api\\api\\integracao\\response\\viacepresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED7B85F2-69A5-4A35-986A-2AFA49A62CCB}|API.csproj|solutionrelative:integracao\\response\\viacepresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED7B85F2-69A5-4A35-986A-2AFA49A62CCB}|API.csproj|c:\\users\\b246131\\documents\\api\\api\\controllers\\contacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED7B85F2-69A5-4A35-986A-2AFA49A62CCB}|API.csproj|solutionrelative:controllers\\contacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED7B85F2-69A5-4A35-986A-2AFA49A62CCB}|API.csproj|c:\\users\\b246131\\documents\\api\\api\\integracao\\viacepintegracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED7B85F2-69A5-4A35-986A-2AFA49A62CCB}|API.csproj|solutionrelative:integracao\\viacepintegracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED7B85F2-69A5-4A35-986A-2AFA49A62CCB}|API.csproj|c:\\users\\b246131\\documents\\api\\api\\integracao\\refit\\iviacepintegracaorefit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED7B85F2-69A5-4A35-986A-2AFA49A62CCB}|API.csproj|solutionrelative:integracao\\refit\\iviacepintegracaorefit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED7B85F2-69A5-4A35-986A-2AFA49A62CCB}|API.csproj|c:\\users\\b246131\\documents\\api\\api\\integracao\\interfaces\\iviacepintegracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED7B85F2-69A5-4A35-986A-2AFA49A62CCB}|API.csproj|solutionrelative:integracao\\interfaces\\iviacepintegracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED7B85F2-69A5-4A35-986A-2AFA49A62CCB}|API.csproj|c:\\users\\b246131\\documents\\api\\api\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED7B85F2-69A5-4A35-986A-2AFA49A62CCB}|API.csproj|solutionrelative:models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ED7B85F2-69A5-4A35-986A-2AFA49A62CCB}|API.csproj|c:\\users\\b246131\\documents\\api\\api\\controllers\\cepcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,6 +21,30 @@
     {
       "AbsoluteMoniker": "D:0:0:{ED7B85F2-69A5-4A35-986A-2AFA49A62CCB}|API.csproj|c:\\users\\b246131\\documents\\api\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{ED7B85F2-69A5-4A35-986A-2AFA49A62CCB}|API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7B85F2-69A5-4A35-986A-2AFA49A62CCB}|API.csproj|c:\\users\\b246131\\documents\\api\\api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED7B85F2-69A5-4A35-986A-2AFA49A62CCB}|API.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7B85F2-69A5-4A35-986A-2AFA49A62CCB}|API.csproj|c:\\users\\b246131\\documents\\api\\api\\controllers\\tarefacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED7B85F2-69A5-4A35-986A-2AFA49A62CCB}|API.csproj|solutionrelative:controllers\\tarefacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7B85F2-69A5-4A35-986A-2AFA49A62CCB}|API.csproj|c:\\users\\b246131\\documents\\api\\api\\integracao\\refit\\iviacepintegracaorefit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED7B85F2-69A5-4A35-986A-2AFA49A62CCB}|API.csproj|solutionrelative:integracao\\refit\\iviacepintegracaorefit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7B85F2-69A5-4A35-986A-2AFA49A62CCB}|API.csproj|c:\\users\\b246131\\documents\\api\\api\\integracao\\response\\viacepresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED7B85F2-69A5-4A35-986A-2AFA49A62CCB}|API.csproj|solutionrelative:integracao\\response\\viacepresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7B85F2-69A5-4A35-986A-2AFA49A62CCB}|API.csproj|c:\\users\\b246131\\documents\\api\\api\\integracao\\viacepintegracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED7B85F2-69A5-4A35-986A-2AFA49A62CCB}|API.csproj|solutionrelative:integracao\\viacepintegracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7B85F2-69A5-4A35-986A-2AFA49A62CCB}|API.csproj|c:\\users\\b246131\\documents\\api\\api\\integracao\\interfaces\\iviacepintegracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED7B85F2-69A5-4A35-986A-2AFA49A62CCB}|API.csproj|solutionrelative:integracao\\interfaces\\iviacepintegracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ED7B85F2-69A5-4A35-986A-2AFA49A62CCB}|API.csproj|c:\\users\\b246131\\documents\\api\\api\\models\\tarefamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,10 +63,6 @@
       "RelativeMoniker": "D:0:0:{ED7B85F2-69A5-4A35-986A-2AFA49A62CCB}|API.csproj|solutionrelative:repositorios\\tarefarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED7B85F2-69A5-4A35-986A-2AFA49A62CCB}|API.csproj|c:\\users\\b246131\\documents\\api\\api\\controllers\\tarefacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED7B85F2-69A5-4A35-986A-2AFA49A62CCB}|API.csproj|solutionrelative:controllers\\tarefacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ED7B85F2-69A5-4A35-986A-2AFA49A62CCB}|API.csproj|c:\\users\\b246131\\documents\\api\\api\\repositorios\\interfaces\\iusuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED7B85F2-69A5-4A35-986A-2AFA49A62CCB}|API.csproj|solutionrelative:repositorios\\interfaces\\iusuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -61,10 +73,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{ED7B85F2-69A5-4A35-986A-2AFA49A62CCB}|API.csproj|c:\\users\\b246131\\documents\\api\\api\\data\\map\\tarefamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED7B85F2-69A5-4A35-986A-2AFA49A62CCB}|API.csproj|solutionrelative:data\\map\\tarefamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED7B85F2-69A5-4A35-986A-2AFA49A62CCB}|API.csproj|c:\\users\\b246131\\documents\\api\\api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED7B85F2-69A5-4A35-986A-2AFA49A62CCB}|API.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ED7B85F2-69A5-4A35-986A-2AFA49A62CCB}|API.csproj|c:\\users\\b246131\\documents\\api\\api\\api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
@@ -110,24 +118,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 24,
+          "SelectedChildIndex": 26,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
+              "Title": "ContaController.cs",
+              "DocumentMoniker": "C:\\Users\\b246131\\Documents\\API\\API\\Controllers\\ContaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContaController.cs",
+              "ToolTip": "C:\\Users\\b246131\\Documents\\API\\API\\Controllers\\ContaController.cs",
+              "RelativeToolTip": "Controllers\\ContaController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T13:33:40.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\b246131\\Documents\\API\\API\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\b246131\\Documents\\API\\API\\Models\\LoginModel.cs",
+              "RelativeToolTip": "Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T11:36:12.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "CepController.cs",
               "DocumentMoniker": "C:\\Users\\b246131\\Documents\\API\\API\\Controllers\\CepController.cs",
               "RelativeDocumentMoniker": "Controllers\\CepController.cs",
               "ToolTip": "C:\\Users\\b246131\\Documents\\API\\API\\Controllers\\CepController.cs",
               "RelativeToolTip": "Controllers\\CepController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-11T19:44:49.846Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "ViaCepIntegracao.cs",
               "DocumentMoniker": "C:\\Users\\b246131\\Documents\\API\\API\\Integracao\\ViaCepIntegracao.cs",
               "RelativeDocumentMoniker": "Integracao\\ViaCepIntegracao.cs",
@@ -135,12 +169,11 @@
               "RelativeToolTip": "Integracao\\ViaCepIntegracao.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T19:15:05.491Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T19:15:05.491Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "IViaCepIntegracao.cs",
               "DocumentMoniker": "C:\\Users\\b246131\\Documents\\API\\API\\Integracao\\Interfaces\\IViaCepIntegracao.cs",
               "RelativeDocumentMoniker": "Integracao\\Interfaces\\IViaCepIntegracao.cs",
@@ -148,12 +181,11 @@
               "RelativeToolTip": "Integracao\\Interfaces\\IViaCepIntegracao.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T19:13:29.15Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T19:13:29.15Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "IViaCepIntegracaoRefit.cs",
               "DocumentMoniker": "C:\\Users\\b246131\\Documents\\API\\API\\Integracao\\Refit\\IViaCepIntegracaoRefit.cs",
               "RelativeDocumentMoniker": "Integracao\\Refit\\IViaCepIntegracaoRefit.cs",
@@ -161,12 +193,11 @@
               "RelativeToolTip": "Integracao\\Refit\\IViaCepIntegracaoRefit.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T19:05:11.17Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T19:05:11.17Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "ViaCepResponse.cs",
               "DocumentMoniker": "C:\\Users\\b246131\\Documents\\API\\API\\Integracao\\Response\\ViaCepResponse.cs",
               "RelativeDocumentMoniker": "Integracao\\Response\\ViaCepResponse.cs",
@@ -174,38 +205,35 @@
               "RelativeToolTip": "Integracao\\Response\\ViaCepResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T19:00:09.932Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T19:00:09.932Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 6,
               "Title": "TarefaController.cs",
               "DocumentMoniker": "C:\\Users\\b246131\\Documents\\API\\API\\Controllers\\TarefaController.cs",
               "RelativeDocumentMoniker": "Controllers\\TarefaController.cs",
               "ToolTip": "C:\\Users\\b246131\\Documents\\API\\API\\Controllers\\TarefaController.cs",
               "RelativeToolTip": "Controllers\\TarefaController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBEAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T18:13:51.759Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T18:13:51.759Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "TarefaRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\b246131\\Documents\\API\\API\\Repositorios\\TarefaRepositorio.cs",
               "RelativeDocumentMoniker": "Repositorios\\TarefaRepositorio.cs",
               "ToolTip": "C:\\Users\\b246131\\Documents\\API\\API\\Repositorios\\TarefaRepositorio.cs",
               "RelativeToolTip": "Repositorios\\TarefaRepositorio.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAIBJwCQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwCQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T18:02:30.387Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T18:02:30.387Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "ITarefaRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\b246131\\Documents\\API\\API\\Repositorios\\Interfaces\\ITarefaRepositorio.cs",
               "RelativeDocumentMoniker": "Repositorios\\Interfaces\\ITarefaRepositorio.cs",
@@ -213,12 +241,11 @@
               "RelativeToolTip": "Repositorios\\Interfaces\\ITarefaRepositorio.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T17:59:14.785Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T17:59:14.785Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "20250211175722_VinculoTarefaUsuario.cs",
               "DocumentMoniker": "C:\\Users\\b246131\\Documents\\API\\API\\Migrations\\20250211175722_VinculoTarefaUsuario.cs",
               "RelativeDocumentMoniker": "Migrations\\20250211175722_VinculoTarefaUsuario.cs",
@@ -226,24 +253,22 @@
               "RelativeToolTip": "Migrations\\20250211175722_VinculoTarefaUsuario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T17:57:22.676Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T17:57:22.676Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "API",
               "DocumentMoniker": "C:\\Users\\b246131\\Documents\\API\\API\\API.csproj",
               "RelativeDocumentMoniker": "API.csproj",
               "ToolTip": "C:\\Users\\b246131\\Documents\\API\\API\\API.csproj",
               "RelativeToolTip": "API.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-11T16:53:22.818Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T16:53:22.818Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\b246131\\Documents\\API\\API\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
@@ -251,12 +276,11 @@
               "RelativeToolTip": "appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-11T16:16:18.175Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T16:16:18.175Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "20250211161107_initialDB.cs",
               "DocumentMoniker": "C:\\Users\\b246131\\Documents\\API\\API\\Migrations\\20250211161107_initialDB.cs",
               "RelativeDocumentMoniker": "Migrations\\20250211161107_initialDB.cs",
@@ -264,12 +288,11 @@
               "RelativeToolTip": "Migrations\\20250211161107_initialDB.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T16:11:07.744Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T16:11:07.744Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "TarefaMap.cs",
               "DocumentMoniker": "C:\\Users\\b246131\\Documents\\API\\API\\Data\\Map\\TarefaMap.cs",
               "RelativeDocumentMoniker": "Data\\Map\\TarefaMap.cs",
@@ -277,12 +300,11 @@
               "RelativeToolTip": "Data\\Map\\TarefaMap.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T16:01:13.225Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T16:01:13.225Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "UsuarioMap.cs",
               "DocumentMoniker": "C:\\Users\\b246131\\Documents\\API\\API\\Data\\Map\\UsuarioMap.cs",
               "RelativeDocumentMoniker": "Data\\Map\\UsuarioMap.cs",
@@ -290,12 +312,11 @@
               "RelativeToolTip": "Data\\Map\\UsuarioMap.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T15:57:21.711Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T15:57:21.711Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "StatusTarefa.cs",
               "DocumentMoniker": "C:\\Users\\b246131\\Documents\\API\\API\\Enums\\StatusTarefa.cs",
               "RelativeDocumentMoniker": "Enums\\StatusTarefa.cs",
@@ -303,12 +324,11 @@
               "RelativeToolTip": "Enums\\StatusTarefa.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T15:52:53.69Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T15:52:53.69Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "API.http",
               "DocumentMoniker": "C:\\Users\\b246131\\Documents\\API\\API\\API.http",
               "RelativeDocumentMoniker": "API.http",
@@ -316,12 +336,11 @@
               "RelativeToolTip": "API.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-02-11T15:47:15.976Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T15:47:15.976Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "UsuarioRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\b246131\\Documents\\API\\API\\Repositorios\\UsuarioRepositorio.cs",
               "RelativeDocumentMoniker": "Repositorios\\UsuarioRepositorio.cs",
@@ -329,12 +348,11 @@
               "RelativeToolTip": "Repositorios\\UsuarioRepositorio.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T14:18:20.326Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T14:18:20.326Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "IUsuarioRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\b246131\\Documents\\API\\API\\Repositorios\\Interfaces\\IUsuarioRepositorio.cs",
               "RelativeDocumentMoniker": "Repositorios\\Interfaces\\IUsuarioRepositorio.cs",
@@ -342,12 +360,11 @@
               "RelativeToolTip": "Repositorios\\Interfaces\\IUsuarioRepositorio.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T14:14:30.392Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T14:14:30.392Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "SistemaDeTarefasDBContext.cs",
               "DocumentMoniker": "C:\\Users\\b246131\\Documents\\API\\API\\Data\\SistemaDeTarefasDBContext.cs",
               "RelativeDocumentMoniker": "Data\\SistemaDeTarefasDBContext.cs",
@@ -355,38 +372,35 @@
               "RelativeToolTip": "Data\\SistemaDeTarefasDBContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T14:08:09.663Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T14:08:09.663Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "API.csproj",
               "DocumentMoniker": "C:\\Users\\b246131\\Documents\\API\\API\\API.csproj",
               "RelativeDocumentMoniker": "API.csproj",
               "ToolTip": "C:\\Users\\b246131\\Documents\\API\\API\\API.csproj",
               "RelativeToolTip": "API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-11T14:03:02.309Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T14:03:02.309Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 5,
               "Title": "UsuarioController.cs",
               "DocumentMoniker": "C:\\Users\\b246131\\Documents\\API\\API\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
               "ToolTip": "C:\\Users\\b246131\\Documents\\API\\API\\Controllers\\UsuarioController.cs",
               "RelativeToolTip": "Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAwwDgAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T14:00:39.38Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T14:00:39.38Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "TarefaModel.cs",
               "DocumentMoniker": "C:\\Users\\b246131\\Documents\\API\\API\\Models\\TarefaModel.cs",
               "RelativeDocumentMoniker": "Models\\TarefaModel.cs",
@@ -394,12 +408,11 @@
               "RelativeToolTip": "Models\\TarefaModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T13:58:47.96Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T13:58:47.96Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "UsuarioModel.cs",
               "DocumentMoniker": "C:\\Users\\b246131\\Documents\\API\\API\\Models\\UsuarioModel.cs",
               "RelativeDocumentMoniker": "Models\\UsuarioModel.cs",
@@ -407,12 +420,11 @@
               "RelativeToolTip": "Models\\UsuarioModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T13:27:39.634Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T13:27:39.634Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\b246131\\Documents\\API\\API\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -431,7 +443,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\b246131\\Documents\\API\\API\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAxwCIAAABUAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAiwDoAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-11T13:05:06.626Z",
               "EditorCaption": ""
